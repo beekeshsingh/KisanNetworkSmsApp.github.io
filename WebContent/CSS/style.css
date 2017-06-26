@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+label {
+	width: 150px;
+	display: inline-block;
+}
+form {
+	border: 2px solid black;
+	width: 400px;
+}

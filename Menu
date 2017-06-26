@@ -1,0 +1,9 @@
+
+i have used https://www.smsgatewayhub.com gateway sms in this project 
+Required Tools: 
+1) Eclipse
+2) Tomcat
+3) Browser
+Import App in eclipse then 
+ You have to change numbers in index.jsp those you want sent OTP.
+OTP will send on your number that you saved.
